@@ -1,6 +1,6 @@
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
-Alex Rosen was here. is this good for the assignment?
+Alex Rosen was here. Is this good enough for the assignment?
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
